@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "declaration": true,
+        "esModuleInterop": true,
+        "module": "CommonJS",
+        "noImplicitAny": true,
+        "outDir": "dist",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "target": "ES6"
+    },
+    "include": [
+        "src/ts/**/*",
+        "decs.d.ts"
+    ]
+}
